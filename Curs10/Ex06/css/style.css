@@ -10,8 +10,12 @@ h1:hover {
   text-decoration: underline;
 }
 
-p:hover i {
+p i {
   position: relative;
+  cursor: pointer;
+}
+
+p:hover i {
   top: -2px;
   left: 2px;
 }
@@ -25,9 +29,12 @@ p:hover i {
   color: green;
 }
 
+p b {
+  position: relative;
+  cursor: pointer;
+}
+
 p:hover b {
   color: red;
-  position: relative;
   top: -2px;
-  cursor: pointer;
 }
