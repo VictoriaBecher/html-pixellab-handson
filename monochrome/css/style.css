@@ -385,6 +385,10 @@ a {
 
 /* header */
 
+.header {
+  margin-bottom: 20px;
+}
+
 .header-top {
   background: #e8e8e8 url('../images/banners/banner-01.jpg') center center /
     cover no-repeat;
