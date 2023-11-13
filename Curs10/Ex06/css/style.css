@@ -17,7 +17,7 @@ p i {
 
 p:hover i {
   top: -2px;
-  left: 2px;
+  right: -2px;
 }
 
 .secondary a:hover {

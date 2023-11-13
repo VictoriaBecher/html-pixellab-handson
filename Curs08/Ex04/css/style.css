@@ -35,6 +35,14 @@ body {
   position: relative;
 }
 
+.section-title {
+  text-align: center;
+  position: sticky;
+  top: 8px;
+  background-color: white;
+  z-index: 1;
+}
+
 .container .legend {
   position: absolute;
   top: 0;
